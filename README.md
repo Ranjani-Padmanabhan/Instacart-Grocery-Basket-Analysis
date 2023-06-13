@@ -1,2 +1,5 @@
 # Instacart-Grocery-Basket-Analysis
-A project analysing the sales trends and patterns of an online grocery store
+
+## Objective 
+
+Perform exploratory data analysis on the available data in order to derive useful insights and suggest strategies for better customer segmentation
